@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Vivalvia Lisangti</title>
+	<title>VIVALVIA LISANGTI</title>
 </head>
 <body>
 	<h2>Hello Word CI</h2>
