@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/tugasframework/A_E31190785_Vivalvia-Lisangti_Web/Minggu_11_Crud1/';
+$config['base_url'] = 'http://localhost/tugasframework/A_E31190785_Vivalvia-Lisangti_Web/Minggu_11_Crud1/'; /*pada baris ini digunakan untuk menghubungkan atau memanggil  ke browser
 
 /*
 |--------------------------------------------------------------------------
